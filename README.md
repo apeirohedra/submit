@@ -7,6 +7,6 @@ The dataset being used is: [Human Activity Recognition Using Smartphones](http:/
 
 ## How the scritp works
 
-:one: `code_book.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
-:two: `run_analysis.R` contains all the code to perform the analyses described in the 5 steps.
+:one: `code_book.md` describes the variables, the data, and any transformations or work that was performed to clean up the data. <br>
+:two: `run_analysis.R` contains all the code to perform the analyses described in the 5 steps. <br>
 :three: `averages_data.txt` is an independent tidy data set with the average of each variable for each activity and each subject
