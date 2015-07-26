@@ -11,6 +11,6 @@
  
 ##Transformations to clean up data
 
-The script called run_analysis.R was created as following:
-#. coś
+The script called `run_analysis.R` was created as following:
++
 
