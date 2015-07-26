@@ -1,3 +1,5 @@
+##Description
+
 | Variables used in script  | Explanation |
 | :------------- | :-------------: |
 | `x_train` <br>`y_train` <br>`x_test`<br> `y_test`<br> `subject_train`<br> `subject_test`  | Contains the data from the downloaded files  |
@@ -7,4 +9,8 @@
 |`all_data`| Binds all the data in a single data set|
 |`averages_data`|Independent tidy data set with the average of each variable for each activity and each subject|
  
+##Transformations to clean up data
+
+The script called run_analysis.R was created as following:
+#. coś
 
