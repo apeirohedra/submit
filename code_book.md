@@ -11,7 +11,11 @@
  
 ##Transformations to clean up data
 
-The script called `run_analysis.R` was created as following:
-- [x] this is a complete item
+The script called `run_analysis.R` was created and does the following:
 
+- [x] Merges the training and the test sets to create one data set
+- [x] Extracts only the measurements on the mean and standard deviation for each measurement
+- [x] Uses descriptive activity names to name the activities in the data set
+- [x] Appropriately labels the data set with descriptive variable names
+- [x] From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
