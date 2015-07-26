@@ -12,7 +12,6 @@
 ##Transformations to clean up data
 
 The script called `run_analysis.R` was created as following:
-> cos
-> cos
+- [x] this is a complete item
 
 
